@@ -166,7 +166,7 @@ const sections = [
       {
         "id": "C1",
         "type": "input",
-        "prompt": "1. k _ t c h _ n",
+        "prompt": "1. _ i _ _ h _ _",
         "answers": [
           "kitchen"
         ],
@@ -177,7 +177,7 @@ const sections = [
       {
         "id": "C2",
         "type": "input",
-        "prompt": "2. c _ f _ t _ r _ a",
+        "prompt": "2. _ a f _ _ e _ i _",
         "answers": [
           "cafeteria"
         ],
@@ -188,7 +188,7 @@ const sections = [
       {
         "id": "C3",
         "type": "input",
-        "prompt": "3. c l _ s s r _ _ m",
+        "prompt": "3. C _ _ s _ _ o _ _",
         "answers": [
           "classroom"
         ],
